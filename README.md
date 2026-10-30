@@ -4,7 +4,7 @@
 🚩 I play **CTFs** with FL1TZ and write forensics challenges for Securinets and other events.  
 🎓 Network & Telecommunications engineering student at **INSAT**, Tunis.
 
-Personal Website: [0xzyyz.tech](https://0xzyyz.tech) · Writeups: [medium.com/@Zyyz](https://medium.com/@Zyyz)
+Personal Website: [0xzyyz.tech](https://0xzyyz.tech)
 
 ## Operating Systems
 
