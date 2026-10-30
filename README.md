@@ -6,14 +6,9 @@
 
 Personal Website: [0xzyyz.tech](https://0xzyyz.tech) · Writeups: [medium.com/@Zyyz](https://medium.com/@Zyyz)
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=0xZyyz)
-
-
 ## Operating Systems
 
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
-
 
 ## Programming Languages
 
@@ -26,19 +21,16 @@ Personal Website: [0xzyyz.tech](https://0xzyyz.tech) · Writeups: [medium.com/@Z
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
 ![Bash](https://img.shields.io/badge/Bash-000?logo=gnubash&logoColor=white)
 
-
 ## Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)
-
 
 ## Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-000?logo=git)
 ![Docker](https://img.shields.io/badge/Docker-000?logo=docker&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-000?logo=kubernetes)
-
 
 ## Security
 
