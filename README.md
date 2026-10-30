@@ -21,10 +21,24 @@ Personal Website: [0xzyyz.tech](https://0xzyyz.tech)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
 ![Bash](https://img.shields.io/badge/Bash-000?logo=gnubash&logoColor=white)
 
+## Frameworks
+
+![FastAPI](https://img.shields.io/badge/FastAPI-000?logo=fastapi)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000?logo=springboot)
+![React](https://img.shields.io/badge/React-000?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-000?logo=nodedotjs)
+![Flutter](https://img.shields.io/badge/Flutter-000?logo=flutter)
+
+
 ## Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)
+
+## Cloud
+
+![Azure](https://img.shields.io/badge/Azure-000?logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjMDA3OEQ0IiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TWljcm9zb2Z0IEF6dXJlPC90aXRsZT48cGF0aCBkPSJNMjIuMzc5IDIzLjM0M2ExLjYyIDEuNjIgMCAwIDAgMS41MzYtMi4xNHYuMDAyTDE3LjM1IDEuNzZBMS42MiAxLjYyIDAgMCAwIDE1LjgxNi42NTdIOC4xODRBMS42MiAxLjYyIDAgMCAwIDYuNjUgMS43NkwuMDg2IDIxLjIwNGExLjYyIDEuNjIgMCAwIDAgMS41MzYgMi4xMzloNC43NDFhMS42MiAxLjYyIDAgMCAwIDEuNTM1LTEuMTAzbC45NzctMi44OTIgNC45NDcgMy42NzVjLjI4LjIwOC42MTguMzIuOTY2LjMybS0zLjA4NC0xMi41MzEgMy42MjQgMTAuNzM5YS41NC41NCAwIDAgMS0uNTEuNzEzdi0uMDAxaC0uMDNhLjU0LjU0IDAgMCAxLS4zMjItLjEwNmwtOS4yODctNi45aDQuODUzbTYuMzEzIDcuMDA2Yy4xMTYtLjMyNi4xMy0uNjk0LjAwNy0xLjA1OEw5Ljc5IDEuNzZhMS43MjIgMS43MjIgMCAwIDAtLjAwNy0uMDJoNi4wMzRhLjU0LjU0IDAgMCAxIC41MTIuMzY2bDYuNTYyIDE5LjQ0NWEuNTQuNTQgMCAwIDEtLjMzOC42ODQiLz48L3N2Zz4=)
+
 
 ## Tools & Technologies
 
