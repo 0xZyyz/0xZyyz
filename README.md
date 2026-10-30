@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @0xZyyz
+# 👋 Hi, I'm Zyyz
 
 🔎 Cybersecurity consultant at **VamiSec**, working on **digital forensics**, **incident response** and **reverse engineering**.  
 🚩 I play **CTFs** with FL1TZ and write forensics challenges for Securinets and other events.  
