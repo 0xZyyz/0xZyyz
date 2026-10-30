@@ -24,10 +24,8 @@ Personal Website: [0xzyyz.tech](https://0xzyyz.tech)
 ## Frameworks
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-000?logo=fastapi)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000?logo=springboot)
 ![React](https://img.shields.io/badge/React-000?logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-000?logo=nodedotjs)
-![Flutter](https://img.shields.io/badge/Flutter-000?logo=flutter)
 
 
 ## Databases
